@@ -1,1 +1,0 @@
-Linux was created by Linus Torvalds in 1991 as a free and open-source operating system kernel. It was inspired by MINIX and expanded with the help of developers worldwide. Linux follows the Unix philosophy: build small, simple, modular programs that do one task well. Together with GNU components, it forms the GNU/Linux operating system.
